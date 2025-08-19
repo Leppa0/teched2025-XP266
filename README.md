@@ -6,32 +6,49 @@ This repository contains the material for the SAP TechEd 2025 session called XP2
 
 ## Overview
 
-This session introduces attendees to...
+Learn how to deliver content on SAP BTP in enterprise environments across staged DEV, TEST, and PROD landscapes—through the example of transporting development changes in SAP Build solutions. Gain hands-on experience with the interplay of SAP Content Agent service, SAP Cloud Transport Management service, and the SAP Cloud ALM solution.
 
-## Requirements
+## Prerequisites
 
-The requirements to follow the exercises in this repository are...
+To complete the exercises in this repository, please make sure that you meet the following prerequisites:
+
+* You have an account on [GitHub](https://github.com/signup).
+* You have an [SAP Business Technology Platform (BTP) Account](https://developers.sap.com/tutorials/hcp-create-trial-account.html).
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+- [Exercice 0.1 - Getting Started](exercises/ex0.1/)
+- [Exercice 0.1 - Create a Copy of This Repository](exercises/ex0.2/)
 
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
+#### Set up your Delivery Pipeline and Transport Landscape
+- [Exercise 1.1 - Add Your Repository in SAP CI/CD Service](exercises/ex0.2/)
+- [Exercise 1.2 - Create a Webhook](exercises/ex0.2/)
+- [Exercise 1.3 - Create a Pipeline Job](exercises/ex0.2/)
+- [Exercise 1.4 - Configure the Release Step](exercises/ex0.2/)
+- [Exercise 1.5 - Create Transport Landscape in SAP Cloud Transport Management Service](exercises/ex0.2/)
 
-  
-**OR** Link to the Tutorial Navigator for example...
+#### Maintain your Features in CALM
+- [Exercise 2.1 - Check the Cloud ALM and cTMS configuration](exercises/ex0.2/)
+- [Exercice 2.2 - Create a new Feature](exercises/ex0.2/)
 
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
+#### Develop your pro-code application
+- [Exercise 3.1 - Create new Development Project in SAP Build](exercises/ex0.2/)
+- [Exercise 3.2 - Generate new Sample Data with SAP Build and Joule](exercises/ex0.2/)
+- [Exercise 3.3 - Release Changes to GitHub](exercises/ex0.2/)
 
-**IMPORTANT**
+#### Develop your your low-code application
+- [Exercise 4.1 - Setup SAP Content Agent Service](exercises/ex0.2/)
+- [Exercise 4.2 - Find application in mobile services](exercises/ex0.2/)
+- [Exercise 4.3 - Create and send Transport Request in SAP Content Agent Service UI](exercises/ex0.2/)
 
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
+#### Check Release Steps
+- [Exercise 5.1 - Check CI/CD Job Status](exercises/ex0.2/)
+- [Exercise 5.2 - Find and understand newly created Transports in SAP Cloud Transport Management](exercises/ex0.2/)
+
+#### Features in CALM & Deployment
+- [Exercise 6.1 - Assign transport requests to your Feature](exercises/ex0.2/)
+- [Exercise 6.2 - Deploy and monitor changes in your QA & Prod environment](exercises/ex0.2/)
+- [Exersice 6.3 - Find and access deployed applications](exercises/ex0.2/)
 
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
