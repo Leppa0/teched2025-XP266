@@ -41,11 +41,11 @@ To complete the exercises in this repository, please make sure that you meet the
 - [Exercise 4.2 - Check your application in mobile services](exercises/ex4#Exercise-4.2---Check-your-application-in-mobile-services)
 - [Exercise 4.3 - Create and send Transport Request in SAP Content Agent Service UI](exercises/ex4#Exercise-4.3---Create-and-send-Transport-Request-in-SAP-Content-Agent-Service-UI)
 
-#### Verify Release Steps
+#### Verify all Release Steps
 - [Exercise 5.1 - Check the Pipeline Job Status](exercises/ex5#Exercise-5.1---Check-the-Pipeline-Job-Status)
 - [Exercise 5.2 - Verify Transports created in SAP Cloud Transport Management](exercises/ex5#Exercise-5.2---Verify-Transports-created-in-SAP-Cloud-Transport-Management)
 
-#### Features in CALM & Deployment
+#### Manage your Feature in Cloud ALM & Deployment
 - [Exercise 6.1 - Manage the lifefcylce of your feature](exercises/ex6#Exercise-6.1---Manage-the-lifefcylce-of-your-feature)
 - [Exercise 6.2 - Deploy and monitor changes in your QA and Prod environment](exercises/ex6#Exercise-6.2---Deploy-and-monitor-changes-in-your-QA-and-Prod-environment)
 - [Exersice 6.3 - Find and access the deployed applications](exercises/ex6#Exercise-6.3---Find-and-access-the-deployed-applications)
