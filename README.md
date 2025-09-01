@@ -17,19 +17,18 @@ To complete the exercises in this repository, please make sure that you meet the
 
 ## Exercises
 
-* ### Exercise 0 - Preparation Steps
+* #### [Exercise 0 - Preparation Steps](exercises/ex0#exercice-0---preparation-steps)
 
-  * [Exercice 0.0 - Getting Started](exercises/ex0#Getting-Started)
-  * [Exercice 0.1 - (Optional) Create a GitHub account](exercises/ex0#Exercice-0.2---(Optional)-Create-a-GitHub-account)
-  * [Exercice 0.2 - Create a Copy of This Repository](exercises/ex0#Exercice-0.3---Create-a-Copy-of-This-Repository)
-  * [Exercice 0. - Login to your BTP subaccount](exercises/ex0#Exercice-0.4---Login-to-your-BTP-subaccount)
+  * [Exercise 0.0 - (Optional) Create a GitHub account](exercises/ex0#exercice-00---optional-create-a-github-account)
+  * [Exercise 0.1 - Create a Copy of This Repository](exercises/ex0#exercice-01---create-a-copy-of-this-repository)
+  * [Exercise 0.2 - Login to your BTP subaccount](exercises/ex0#execise-02---login-to-your-btp-subaccount)
 
-* #### Exercise 1 - Set up your Delivery Pipeline and Transport Landscape
-  * [Exercise 1.0 - Add Your Repository in SAP CI CD Service](exercises/ex1#Exercise-1.1---Add-Your-Repository-in-SAP-CI-CD-Service)
-  * [Exercise 1.1 - Create a Webhook](exercises/ex1#Exercise-1.2---Create-a-Webhook)
-  * [Exercise 1.2 - Create a Pipeline Job](exercises/ex1#Exercise-1.3---Create-a-Pipeline-Job)
-  * [Exercise 1.3 - Configure the Release Step](exercises/ex1#Exercise-1.4--Configure-the-Release-Step)
-  * [Exercise 1.4 - Create Transport Landscape in SAP Cloud Transport Management Service](exercises/ex1#Exercise-1.5---Create-Transport-Landscape-in-SAP-Cloud-Transport-Management-Service)
+* #### [Exercise 1 - Set up your Delivery Pipeline and Transport Landscape](exercises/ex1#exercise-1---set-up-your-delivery-pipeline-and-transport-landscape)
+  * [Exercise 1.0 - Add Your Repository in SAP CI CD Service](exercises/ex1#exercise-10---add-your-repository-in-sap-ci-cd-service)
+  * [Exercise 1.1 - Create a Webhook](exercises/ex1#exercise-11---create-a-webhook)
+  * [Exercise 1.2 - Create a Pipeline Job](exercises/ex1#exercise-12---create-a-pipeline-job)
+  * [Exercise 1.3 - Configure the Release Step](exercises/ex1#exercise-13---configure-the-release-step)
+  * [Exercise 1.4 - Create Transport Landscape in SAP Cloud Transport Management Service](exercises/ex1#exercise-14---create-transport-landscape-in-sap-cloud-transport-management-service)
 
 * #### [Exercise 2 - Maintain your Feature in Cloud ALM](exercises/ex2#Exercise-2---Maintain-your-Feature-in-Cloud-ALM)
   * [Exercise 2.0 - Check your Cloud ALM and cTMS configuration](exercises/ex2#exercise-20---check-your-cloud-alm-and-ctms-configuration)
