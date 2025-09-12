@@ -82,5 +82,3 @@ In this exercise, we will manage the assignment and deployment of Cloud Transpor
 
 ## Summary
 In this exercise you have learned how to deploy changes via Feature in SAP Cloud ALM through your landscape. In addition you were able to keep track by using the Feature Traceability and confirm the correct function in Production. 
-
-You've now done
